@@ -33,6 +33,15 @@ python src/evaluate.py --model vit_b_16 --weights models/vit_b_16_best.pth
 ```
 
 ## Сравнение моделей
+
 ```bash
 python src/compare_models.py
+```
+
+## Проверка работы прототипа
+
+Для проверки работы прототипа необходимо разместить изображения в папку `demo/samples` и выполнить консольную команду из корня проекта:
+
+```bash
+python src/inference.py --image demo/samples/<image>
 ```

@@ -6,3 +6,5 @@ models/
 runs/
 *.pt
 *.pth
+demo/samples/*
+!demo/samples/.gitkeep
