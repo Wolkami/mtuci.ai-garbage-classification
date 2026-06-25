@@ -1,0 +1,11 @@
+.idea
+.venv
+data/raw/
+data/processed/
+models/
+runs/
+*.pt
+*.pth
+demo/samples/*
+!demo/samples/.gitkeep
+notebooks/.ipynb_checkpoints
