@@ -8,3 +8,4 @@ runs/
 *.pth
 demo/samples/*
 !demo/samples/.gitkeep
+notebooks/.ipynb_checkpoints
