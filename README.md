@@ -85,7 +85,9 @@ project/
 
 ## Используемый датасет
 
-Проект использует открытый датасет:
+Проект использует открытый датасет: 
+
+https://www.kaggle.com/datasets/alistairking/recyclable-and-household-waste-classification
 
 **Recyclable and Household Waste Classification Dataset**
 
